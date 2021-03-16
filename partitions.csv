@@ -1,0 +1,4 @@
+# 192KB for nvs, the rest is for the application
+# Name,   Type, SubType,  Offset,  Size, Flags
+app0,     app,  factory, 0x10000,  0x3C0000,
+nvs,      data, nvs,            ,  0x30000,
